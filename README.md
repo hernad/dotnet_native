@@ -124,3 +124,37 @@ System.Net.NetworkInformation.dll
 [ernad.husremovic@sa.out.ba@zvijer linux]$ du -sh .
 73M	.
 </pre>
+
+Run linux sample
+---------------------------
+
+<pre>
+[ernad.husremovic@sa.out.ba@zvijer linux]$ ./SampleHost
+
+Loaded CoreCLR from /home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/bin/linux/libcoreclr.so
+==== CoreCLR started ====
+Managed delegate created
+.NET Version: 5.0.6
+Beginning work iteration 1
+[NATIVE] Received status from managed code: 1
+Received response [-1] from progress function
+.NET Version: 5.0.6
+Beginning work iteration 2
+[NATIVE] Received status from managed code: 2
+Received response [-2] from progress function
+.NET Version: 5.0.6
+Beginning work iteration 3
+[NATIVE] Received status from managed code: 3
+Received response [-3] from progress function
+.NET Version: 5.0.6
+Beginning work iteration 4
+[NATIVE] Received status from managed code: 4
+Received response [-4] from progress function
+.NET Version: 5.0.6
+Beginning work iteration 5
+[NATIVE] Received status from managed code: 5
+Received response [-5] from progress function
+Work completed
+Managed code returned: Data received: 0, 0.25, 0.5, 0.75
+CoreCLR successfully shutdown
+</pre>
