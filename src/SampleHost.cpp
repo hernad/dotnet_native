@@ -324,6 +324,6 @@ void BuildTpaList(const char* directory, const char* extension, std::string& tpa
 int ReportProgressCallback(int progress)
 {
     // Just print the progress parameter to the console and return -progress
-    printf("Received status from managed code: %d\n", progress);
+    printf("[NATIVE] Received status from managed code: %d\n", progress);
     return -progress;
 }
