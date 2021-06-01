@@ -1,0 +1,16 @@
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/bin/Debug/net5.0/consoleapp1
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/bin/Debug/net5.0/consoleapp1.deps.json
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/bin/Debug/net5.0/consoleapp1.runtimeconfig.json
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/bin/Debug/net5.0/consoleapp1.runtimeconfig.dev.json
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/bin/Debug/net5.0/consoleapp1.dll
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/bin/Debug/net5.0/ref/consoleapp1.dll
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/bin/Debug/net5.0/consoleapp1.pdb
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/obj/Debug/net5.0/consoleapp1.csprojAssemblyReference.cache
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/obj/Debug/net5.0/consoleapp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/obj/Debug/net5.0/consoleapp1.AssemblyInfoInputs.cache
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/obj/Debug/net5.0/consoleapp1.AssemblyInfo.cs
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/obj/Debug/net5.0/consoleapp1.csproj.CoreCompileInputs.cache
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/obj/Debug/net5.0/consoleapp1.dll
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/obj/Debug/net5.0/ref/consoleapp1.dll
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/obj/Debug/net5.0/consoleapp1.pdb
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/consoleapp1/obj/Debug/net5.0/consoleapp1.genruntimeconfig.cache

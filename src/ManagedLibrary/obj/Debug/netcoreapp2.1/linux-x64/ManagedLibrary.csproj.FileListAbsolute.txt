@@ -1,0 +1,16 @@
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/bin/Debug/netcoreapp2.1/linux-x64/libhostpolicy.so
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/bin/Debug/netcoreapp2.1/linux-x64/libhostfxr.so
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/bin/Debug/netcoreapp2.1/linux-x64/ManagedLibrary
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/bin/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.deps.json
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/bin/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.runtimeconfig.json
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/bin/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.runtimeconfig.dev.json
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/bin/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.dll
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/bin/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.pdb
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/obj/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.csprojAssemblyReference.cache
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/obj/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/obj/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.AssemblyInfoInputs.cache
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/obj/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.AssemblyInfo.cs
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/obj/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.csproj.CoreCompileInputs.cache
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/obj/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.dll
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/obj/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.pdb
+/home/ernad.husremovic/dotnet/samples/core/hosting/HostWithCoreClrHost/src/ManagedLibrary/obj/Debug/netcoreapp2.1/linux-x64/ManagedLibrary.genruntimeconfig.cache
